@@ -90,9 +90,9 @@ integrated Alicloud CDN for ~20% better image load efficiency, mentored 2 engine
 
 ## Education
 
-**University of Indonesia** — Master of Information Technology, GPA 3.42 (2023 – 2026)
+**University of Indonesia** — Master of Information Technology (2023 – 2026)
 
-**Brawijaya University** — Bachelor of Computer Science, GPA 3.53 (2011 – 2016)
+**Brawijaya University** — Bachelor of Computer Science (2011 – 2016)
 
 ## Stats
 
