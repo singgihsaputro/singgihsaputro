@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=34d399&height=150&section=header&text=Singgih%20Rochmad%20Saputro&fontSize=40&fontColor=07080a&animation=twinkling&desc=Senior%20Android%20Engineer%20%C2%B7%20Jakarta&descSize=16&descAlignY=68" width="100%" alt="Singgih Rochmad Saputro" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior%20Android%20Engineer%20at%20Gojek;10%20years%20shipping%20apps%20at%20100M%2B%20download%20scale;Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Flutter%20%C2%B7%20KMP;Server-driven%20UI%20%C2%B7%20anti-fraud%20%C2%B7%20KYC%20%C2%B7%20app%20size;Champion%20%C2%B7%20GoTo%20Hackathon%202025%20%C2%B7%201st%20of%2074%20teams;Open%20to%20senior%20and%20lead%20Android%20roles&font=Fira+Code&size=18&color=34D399&center=true&width=680&height=52&pause=1400)](https://singgihsaputro.github.io)
+<img src="header.svg" width="100%" alt="Singgih Rochmad Saputro — Senior Android Engineer" />
 
 [**singgihsaputro.github.io**](https://singgihsaputro.github.io) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/singgihrs/) &nbsp;·&nbsp;
@@ -107,7 +105,5 @@ integrated Alicloud CDN for ~20% better image load efficiency, mentored 2 engine
 
 Open to senior and lead Android roles.
 Full CV at [**singgihsaputro.github.io**](https://singgihsaputro.github.io).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=34d399&height=100&section=footer" width="100%" alt="" />
 
 </div>
