@@ -1,8 +1,8 @@
-name: Refresh recent repositories
+name: Refresh highlighted projects
 
 on:
   schedule:
-    - cron: '25 2 * * *' # 09:25 Asia/Jakarta, after the nightly project lands
+    - cron: '25 2 * * *' # 09:25 Asia/Jakarta
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: python3 scripts/latest-repos.py
+      - run: python3 scripts/highlight-repos.py
 
       - name: Commit if anything moved
         run: |
@@ -26,5 +26,5 @@ jobs:
           git config user.name  "Singgih Rochmad Saputro"
           git config user.email "singgih.rochmad@gmail.com"
           git add -A
-          git commit -m "Refresh recent repositories"
+          git commit -m "Refresh highlighted projects"
           git push

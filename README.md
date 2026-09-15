@@ -60,17 +60,17 @@ do not tell the story — they are dominated by vendored files in old web projec
 | [DANA](https://play.google.com/store/apps/details?id=id.dana) | 100M+ · 4.7★ | Java, Room, RxJava2, Dagger2, Retrofit, MVP |
 | PayPro | Indosat, white-label | Java, RxJava, Dagger2, Retrofit, MVP |
 
-## Recent repositories
+## Highlighted projects
 
 <!-- RECENT:START -->
 
-| Repository | What it is | Language | Updated |
-|---|---|---|---|
-| [daily-projects](https://github.com/singgihsaputro/daily-projects) | A small app a night, built by a scheduled cloud agent — Android, iOS, backend, web | Kotlin | 2026-09-14 |
-| [android-water-intake-log](https://github.com/singgihsaputro/android-water-intake-log) | A single-screen Android app that logs drinks against a daily water goal, built with Jetpack Compose and Material 3. | Kotlin | 2026-09-14 |
-| [ios-habit-tracker](https://github.com/singgihsaputro/ios-habit-tracker) | A single-screen SwiftUI habit tracker with streaks and mock data | Swift | 2026-09-14 |
-| [kmp-reading-tracker](https://github.com/singgihsaputro/kmp-reading-tracker) | Kotlin Multiplatform reading tracker: shared Kotlin business logic, Compose Android UI, mock JSON fixture | Kotlin | 2026-09-13 |
-| [backend-expense-splitter](https://github.com/singgihsaputro/backend-expense-splitter) | A Go backend that splits shared group expenses and computes minimal settlements | Go | 2026-09-12 |
+| Project | What it is | Language |
+|---|---|---|
+| [pokemon-kotlin-multiplatform-mobile](https://github.com/singgihsaputro/pokemon-kotlin-multiplatform-mobile) | Kotlin Multiplatform sample sharing business logic across Android and iOS | Kotlin |
+| [android-pomodoro-timer](https://github.com/singgihsaputro/android-pomodoro-timer) | A single-screen Android Pomodoro timer: pick a preset, run alternating focus/break countdowns, and track completed sessions. | Kotlin |
+| [ios-habit-tracker](https://github.com/singgihsaputro/ios-habit-tracker) | A single-screen SwiftUI habit tracker with streaks and mock data | Swift |
+| [backend-expense-splitter](https://github.com/singgihsaputro/backend-expense-splitter) | A Go backend that splits shared group expenses and computes minimal settlements | Go |
+| [WebChat-BottlePython](https://github.com/singgihsaputro/WebChat-BottlePython) ⭐2 | Web chat built on Bottle, Python’s micro web framework | Python |
 
 <!-- RECENT:END -->
 
