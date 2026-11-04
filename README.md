@@ -79,7 +79,7 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 <!-- ALL:START -->
 
-82 public repositories, grouped and refreshed every day. 45 of them are mini projects a scheduled agent built one a night; the newest, [erp](https://github.com/singgihsaputro/erp), grows by a feature a night.
+83 public repositories, grouped and refreshed every day. 46 of them are mini projects a scheduled agent built one a night; the newest, [erp](https://github.com/singgihsaputro/erp), grows by a feature a night.
 
 <details open>
 <summary><b>Projects</b> · 11</summary>
@@ -87,31 +87,32 @@ do not tell the story — they are dominated by vendored files in old web projec
 | Project | What it is | Language | Year |
 |---|---|---|---|
 | [erp](https://github.com/singgihsaputro/erp) | ERP for Indonesian retail and distribution SMEs, one feature a night | TypeScript | 2026 |
-| [daily-projects](https://github.com/singgihsaputro/daily-projects) | — | — | 2026 |
-| [kids-activity-books](https://github.com/singgihsaputro/kids-activity-books) | Printable activity books for ages 1-5, one folder per book | — | 2026 |
-| [smart-worksheet](https://github.com/singgihsaputro/smart-worksheet) | — | — | 2026 |
-| [quran-reciter](https://github.com/singgihsaputro/quran-reciter) | — | — | 2026 |
-| [singgihsaputro.github.io](https://github.com/singgihsaputro/singgihsaputro.github.io) | — | — | 2026 |
-| [weekly-checklist](https://github.com/singgihsaputro/weekly-checklist) | — | — | 2026 |
-| [kotlin-dsa](https://github.com/singgihsaputro/kotlin-dsa) | — | — | 2026 |
-| [pokemon-kotlin-multiplatform-mobile](https://github.com/singgihsaputro/pokemon-kotlin-multiplatform-mobile) | — | Kotlin | 2026 |
+| [smart-worksheet](https://github.com/singgihsaputro/smart-worksheet) | Smart Worksheet by childplay — free, ad-free learning games and talking flash cards for young children, in the browser (Bahasa Indonesia) | JavaScript | 2026 |
+| [kids-activity-books](https://github.com/singgihsaputro/kids-activity-books) | Printable activity books for ages 1-5, one folder per book | Python | 2026 |
+| [quran-reciter](https://github.com/singgihsaputro/quran-reciter) | Ayok Ngaji — a free, ad-free Qur'an reciting game for children: it listens, lights up every word and gives stars. Hijaiyah flash cards and bedtime stories too. | HTML | 2026 |
+| [kotlin-dsa](https://github.com/singgihsaputro/kotlin-dsa) | Data structures and algorithms in Kotlin — ten interview problems with reasoning, complexity analysis and 47 tests | Kotlin | 2026 |
+| [daily-projects](https://github.com/singgihsaputro/daily-projects) | A small app a night, built by a scheduled cloud agent — Android, iOS, backend, web | Kotlin | 2026 |
+| [singgihsaputro.github.io](https://github.com/singgihsaputro/singgihsaputro.github.io) ⭐1 | Personal CV landing page — Next.js static export + Tailwind, deployed to GitHub Pages | JavaScript | 2026 |
+| [weekly-checklist](https://github.com/singgihsaputro/weekly-checklist) | Weekly checklist app — React + Vite frontend, Express + SQLite backend, single process in production | JavaScript | 2026 |
+| [pokemon-kotlin-multiplatform-mobile](https://github.com/singgihsaputro/pokemon-kotlin-multiplatform-mobile) | Sample repo implmeen Kotlin Multiplatform for Mobile (Android/iOS | Kotlin | 2026 |
 | [scrapper](https://github.com/singgihsaputro/scrapper) | — | — | 2024 |
 | [recycler-view-demo](https://github.com/singgihsaputro/recycler-view-demo) | — | — | 2023 |
 
 </details>
 
 <details>
-<summary><b>Android apps</b> · 8 · built one a night by a scheduled agent</summary>
+<summary><b>Android apps</b> · 9 · built one a night by a scheduled agent</summary>
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [android-budget-envelopes](https://github.com/singgihsaputro/android-budget-envelopes) | An Android app that splits a month's budget into spending envelopes, shows how much is left in each, flags the ones that are nearly empty or overspent, and works out what you can safely spend per day. | Kotlin | 2026 |
-| [android-caffeine-tracker](https://github.com/singgihsaputro/android-caffeine-tracker) | An Android app that logs your coffee, tea and energy drinks and estimates how much caffeine is still active in your body and when it will drop low enough for sleep. | Kotlin | 2026 |
-| [android-habit-streaks](https://github.com/singgihsaputro/android-habit-streaks) | An Android app that lists your daily habits with current and best streaks, a seven-day dot strip per habit, and a one-tap check-in for today. | Kotlin | 2026 |
-| [android-countdown](https://github.com/singgihsaputro/android-countdown) | An Android app that shows live days/hours/minutes/seconds countdowns to your upcoming events, with past events listed below. | Kotlin | 2026 |
-| [android-qr-generator](https://github.com/singgihsaputro/android-qr-generator) | A single-screen Android app that turns typed text or a URL into a scannable QR code, offers a few starter presets, and keeps a reusable history of recent codes. | Kotlin | 2026 |
-| [android-password-generator](https://github.com/singgihsaputro/android-password-generator) | A single-screen Android app that generates a random password from adjustable length and character-set options, rates its strength, and keeps a running history of what it generated. | Kotlin | 2026 |
-| [android-water-intake-log](https://github.com/singgihsaputro/android-water-intake-log) | A single-screen Android app that logs drinks against a daily water goal and shows progress with a running total. | Kotlin | 2026 |
+| [android-flashcards](https://github.com/singgihsaputro/android-flashcards) | Android flashcard trainer in Jetpack Compose with a requeue-on-miss study loop | Kotlin | 2026 |
+| [android-budget-envelopes](https://github.com/singgihsaputro/android-budget-envelopes) | Android envelope budgeting app (Compose, mock data) | Kotlin | 2026 |
+| [android-caffeine-tracker](https://github.com/singgihsaputro/android-caffeine-tracker) | Android app that estimates active caffeine and sleep-safe time (Compose, mock data) | Kotlin | 2026 |
+| [android-habit-streaks](https://github.com/singgihsaputro/android-habit-streaks) | Android habit tracker with streaks and a 7-day check-in strip (Compose, mock data) | Kotlin | 2026 |
+| [android-countdown](https://github.com/singgihsaputro/android-countdown) | Android countdown timer app: live countdowns to upcoming events (Compose, Material 3) | Kotlin | 2026 |
+| [android-qr-generator](https://github.com/singgihsaputro/android-qr-generator) | A single-screen Android app that turns typed text or a URL into a scannable QR code, with presets and history | Kotlin | 2026 |
+| [android-password-generator](https://github.com/singgihsaputro/android-password-generator) | Random password generator with strength meter and generation history, built with Kotlin and Jetpack Compose | Kotlin | 2026 |
+| [android-water-intake-log](https://github.com/singgihsaputro/android-water-intake-log) | A single-screen Android app that logs drinks against a daily water goal, built with Jetpack Compose and Material 3. | Kotlin | 2026 |
 | [android-pomodoro-timer](https://github.com/singgihsaputro/android-pomodoro-timer) | A single-screen Android Pomodoro timer: pick a preset, run alternating focus/break countdowns, and track completed sessions. | Kotlin | 2026 |
 
 </details>
@@ -121,11 +122,11 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [androidlib-compose-shimmer](https://github.com/singgihsaputro/androidlib-compose-shimmer) | An Android library of Jetpack Compose skeleton loaders: a `shimmer()` modifier, a `skeleton()` placeholder modifier, and ready-made list-row placeholders. | Kotlin | 2026 |
-| [androidlib-pii-redaction-log](https://github.com/singgihsaputro/androidlib-pii-redaction-log) | An Android logging wrapper that scrubs emails, Indonesian phone numbers, NIK, card numbers, tokens and `password=...` pairs from every message and stack trace before it reaches logcat (or any sink you plug in). | Kotlin | 2026 |
-| [androidlib-crash-breadcrumbs](https://github.com/singgihsaputro/androidlib-crash-breadcrumbs) | An Android library that keeps a ring buffer of the last N things your app did and writes them next to the stack trace when the app crashes, so the next launch can show what the user did before it died. | Kotlin | 2026 |
-| [androidlib-id-formatters](https://github.com/singgihsaputro/androidlib-id-formatters) | A dependency-free Kotlin library that formats and parses Rupiah, normalises Indonesian mobile numbers, and structurally validates NIK (national ID) numbers. | Kotlin | 2026 |
-| [androidlib-retry-backoff](https://github.com/singgihsaputro/androidlib-retry-backoff) | Retry a suspending call or a `Flow` with exponential backoff and full jitter, in | Kotlin | 2026 |
+| [androidlib-compose-shimmer](https://github.com/singgihsaputro/androidlib-compose-shimmer) | Compose skeleton and shimmer loaders as an Android library | Kotlin | 2026 |
+| [androidlib-pii-redaction-log](https://github.com/singgihsaputro/androidlib-pii-redaction-log) | Android logging wrapper that redacts PII (emails, phones, NIK, cards, tokens) before it hits logcat | Kotlin | 2026 |
+| [androidlib-crash-breadcrumbs](https://github.com/singgihsaputro/androidlib-crash-breadcrumbs) | Android library: ring buffer of recent app events written alongside crash stack traces | Kotlin | 2026 |
+| [androidlib-id-formatters](https://github.com/singgihsaputro/androidlib-id-formatters) | Kotlin library for Rupiah, phone number and NIK formatting/validation on Android | Kotlin | 2026 |
+| [androidlib-retry-backoff](https://github.com/singgihsaputro/androidlib-retry-backoff) | Retry a suspending call or a Flow with exponential backoff and full jitter — Kotlin, coroutines, with a sample app | Kotlin | 2026 |
 
 </details>
 
@@ -134,13 +135,13 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [ios-plant-watering](https://github.com/singgihsaputro/ios-plant-watering) | A single-screen SwiftUI app that lists your houseplants by urgency, shows which are overdue or due today, and lets you mark one watered with a tap. | Swift | 2026 |
-| [ios-mood-log](https://github.com/singgihsaputro/ios-mood-log) | A single-screen SwiftUI app where you pick today's mood and a short note, and see your average, current streak, best day and history. | Swift | 2026 |
-| [ios-checklist](https://github.com/singgihsaputro/ios-checklist) | A single-screen SwiftUI app that loads starter checklists (trip, moving day, leaving the house), lets you tick items off with a progress bar, and add, delete or reset items. | Swift | 2026 |
-| [ios-tip-calculator](https://github.com/singgihsaputro/ios-tip-calculator) | A single-screen SwiftUI app that suggests a tip for the country you are eating in, then splits the total between diners down to the cent. | Swift | 2026 |
-| [ios-sleep-log](https://github.com/singgihsaputro/ios-sleep-log) | A single-screen SwiftUI app that shows the last week of sleep as a bar-per-night log with an average, and lets you log tonight's hours and quality. | Swift | 2026 |
-| [ios-packing-list](https://github.com/singgihsaputro/ios-packing-list) | A single-screen SwiftUI app that groups a trip's packing items by category (Clothing, Toiletries, Electronics, Documents) and lets you check each one off, with a progress bar showing how much is packed. | Swift | 2026 |
-| [ios-habit-tracker](https://github.com/singgihsaputro/ios-habit-tracker) | A single-screen SwiftUI app that lists daily habits, shows each one's streak and last-7-day history, and lets you check it off for today. | Swift | 2026 |
+| [ios-plant-watering](https://github.com/singgihsaputro/ios-plant-watering) | SwiftUI plant watering schedule with overdue tracking | Swift | 2026 |
+| [ios-mood-log](https://github.com/singgihsaputro/ios-mood-log) | SwiftUI mood journal with streaks and history (mock data) | Swift | 2026 |
+| [ios-checklist](https://github.com/singgihsaputro/ios-checklist) | SwiftUI checklist app with progress tracking and mock starter lists | Swift | 2026 |
+| [ios-tip-calculator](https://github.com/singgihsaputro/ios-tip-calculator) | SwiftUI tip calculator with per-country tipping suggestions and exact bill splitting | Swift | 2026 |
+| [ios-sleep-log](https://github.com/singgihsaputro/ios-sleep-log) | A single-screen SwiftUI app for logging nightly sleep hours and quality with a mock weekly log | Swift | 2026 |
+| [ios-packing-list](https://github.com/singgihsaputro/ios-packing-list) | A single-screen SwiftUI packing checklist, grouped by category with a progress bar | Swift | 2026 |
+| [ios-habit-tracker](https://github.com/singgihsaputro/ios-habit-tracker) | A single-screen SwiftUI habit tracker with streaks and mock data | Swift | 2026 |
 
 </details>
 
@@ -149,14 +150,14 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [kmpfullstack-note-store](https://github.com/singgihsaputro/kmpfullstack-note-store) | A pinned-notes app where every note lives on one Ktor server and shows up, with the same search and pin-first ordering, in the Android, web and iOS clients: one Kotlin domain in `shared/`, four front ends. | Kotlin | 2026 |
-| [kmpfullstack-habit-sync](https://github.com/singgihsaputro/kmpfullstack-habit-sync) | A habit tracker where every check-in lives on one Ktor server and shows up, with the same streak maths, in the Android, web and iOS clients: one Kotlin domain in `shared/`, four front ends. | Kotlin | 2026 |
-| [kmpfullstack-shopping-list](https://github.com/singgihsaputro/kmpfullstack-shopping-list) | A shopping list you can tick off, filter by aisle and clear once you are at the till: one Kotlin domain in `shared/`, a Ktor API in `server/`, and Android, web and iOS clients that all talk to it. | Kotlin | 2026 |
-| [kmpfullstack-bookmark-store](https://github.com/singgihsaputro/kmpfullstack-bookmark-store) | A tagged bookmark manager with starring and deletion: one Kotlin domain in `shared/`, a Ktor API in `server/`, and Android, web and iOS clients that all talk to it. | Kotlin | 2026 |
-| [kmpfullstack-short-link-service](https://github.com/singgihsaputro/kmpfullstack-short-link-service) | A URL shortener: paste a long URL to get a short code back, visiting `/r/<code>` redirects to the original URL and counts the click — with the model, validation, and short-code logic defined once in a Kotlin Multiplatform `shared` module and used by a real Ktor server plus three clients (Android, iOS, web) that all talk to it over HTTP. | Kotlin | 2026 |
-| [kmp-grocery-list](https://github.com/singgihsaputro/kmp-grocery-list) | A Kotlin Multiplatform grocery list: adding items, checking them off, grouping by aisle category, and tracking cart progress all live in a `shared` module, with a Jetpack Compose screen on Android that lists the fixture grouped by category with a progress bar and an add-item row. | Kotlin | 2026 |
-| [kmp-unit-converter](https://github.com/singgihsaputro/kmp-unit-converter) | A Kotlin Multiplatform unit converter: category selection, unit lookup, and the conversion math live in a `shared` module, with a Jetpack Compose screen on Android that lets you pick a category, choose From/To units, and see the live result. | Kotlin | 2026 |
-| [kmp-reading-tracker](https://github.com/singgihsaputro/kmp-reading-tracker) | A Kotlin Multiplatform reading tracker: the book list, progress math, and state management live in a `shared` module, with a Jetpack Compose screen on Android that lists books, shows read-progress bars, and lets you log pages. | Kotlin | 2026 |
+| [kmpfullstack-note-store](https://github.com/singgihsaputro/kmpfullstack-note-store) | Pinned-notes store: one Kotlin domain, Ktor server plus Android, web and iOS clients | Kotlin | 2026 |
+| [kmpfullstack-habit-sync](https://github.com/singgihsaputro/kmpfullstack-habit-sync) | Habit tracker with Ktor server and shared Kotlin domain across Android, web and iOS | Kotlin | 2026 |
+| [kmpfullstack-shopping-list](https://github.com/singgihsaputro/kmpfullstack-shopping-list) | Kotlin Multiplatform shared shopping list: Ktor API plus Android, web and iOS clients | Makefile | 2026 |
+| [kmpfullstack-bookmark-store](https://github.com/singgihsaputro/kmpfullstack-bookmark-store) | Kotlin Multiplatform bookmark store: shared domain, Ktor API, Android, web and iOS clients | Kotlin | 2026 |
+| [kmpfullstack-short-link-service](https://github.com/singgihsaputro/kmpfullstack-short-link-service) | A URL shortener built as one Kotlin Multiplatform repo — shared domain logic, a real Ktor server, and Android/iOS/web clients that all talk to it over HTTP. | Kotlin | 2026 |
+| [kmp-grocery-list](https://github.com/singgihsaputro/kmp-grocery-list) | Kotlin Multiplatform grocery list — shared checklist logic driving a Jetpack Compose screen | Kotlin | 2026 |
+| [kmp-unit-converter](https://github.com/singgihsaputro/kmp-unit-converter) | Kotlin Multiplatform unit converter (length/weight/volume) with a Compose Android UI, built on a shared conversion engine | Kotlin | 2026 |
+| [kmp-reading-tracker](https://github.com/singgihsaputro/kmp-reading-tracker) | Kotlin Multiplatform reading tracker: shared Kotlin business logic, Compose Android UI, mock JSON fixture | Kotlin | 2026 |
 
 </details>
 
@@ -165,12 +166,12 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [web-meeting-planner](https://github.com/singgihsaputro/web-meeting-planner) | A Nuxt 4 single-page tool that lays cities' working hours side by side and highlights the hours when everyone is at work, so you can pick a meeting time. | Vue | 2026 |
-| [web-meal-planner](https://github.com/singgihsaputro/web-meal-planner) | A Vue 3 page where you choose a dinner for each day of the week and get a merged shopping list and calorie total automatically. | JavaScript | 2026 |
-| [web-image-compressor](https://github.com/singgihsaputro/web-image-compressor) | A browser tool that shrinks an image by re-encoding it as JPEG, WebP or PNG at a chosen quality and width, and shows the before/after file sizes side by side. | Vue | 2026 |
-| [web-markdown-scratchpad](https://github.com/singgihsaputro/web-markdown-scratchpad) | A two-pane notes app: write Markdown on the left, see it rendered live on the right, with search and autosave. | JavaScript | 2026 |
-| [web-receipt-scanner](https://github.com/singgihsaputro/web-receipt-scanner) | A single-screen Vue app that runs mock OCR on a picked receipt photo, itemizes it, flags low-confidence lines, and recalculates the total as you correct them. | Vue | 2026 |
-| [web-currency-converter](https://github.com/singgihsaputro/web-currency-converter) | A single-screen React app that converts an amount between currencies using fixture exchange rates, with a full rate table shown below. | TypeScript | 2026 |
+| [web-meeting-planner](https://github.com/singgihsaputro/web-meeting-planner) | Nuxt 4 meeting planner that finds shared working hours across time zones | Vue | 2026 |
+| [web-meal-planner](https://github.com/singgihsaputro/web-meal-planner) | Vue 3 weekly meal planner with auto-merged shopping list | JavaScript | 2026 |
+| [web-image-compressor](https://github.com/singgihsaputro/web-image-compressor) | Browser-side image compressor built with Vue 3, Vite and Tailwind v4 | Vue | 2026 |
+| [web-markdown-scratchpad](https://github.com/singgihsaputro/web-markdown-scratchpad) | Vue 3 + Pinia two-pane Markdown scratchpad with live preview | JavaScript | 2026 |
+| [web-receipt-scanner](https://github.com/singgihsaputro/web-receipt-scanner) | A Vue 3 receipt scanner that runs mock OCR on a picked receipt and lets you review/correct flagged low-confidence lines | Vue | 2026 |
+| [web-currency-converter](https://github.com/singgihsaputro/web-currency-converter) | A single-screen React + Tailwind currency converter backed by mock exchange-rate fixtures | TypeScript | 2026 |
 
 </details>
 
@@ -179,12 +180,12 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [backend-packing-list](https://github.com/singgihsaputro/backend-packing-list) | A small TypeScript (Hono) backend that generates a packing list for a trip from a template, scaling clothes by trip length, and tracks what has been packed. | TypeScript | 2026 |
-| [backend-currency-converter](https://github.com/singgihsaputro/backend-currency-converter) | A small Go HTTP API that converts amounts between currencies using a rate table read from a local fixture, rounding results to each currency's minor units. | Go | 2026 |
-| [backend-sleep-log](https://github.com/singgihsaputro/backend-sleep-log) | A small Rust (Axum) service that records nightly sleep, computes duration across midnight, and summarises a window of nights with average sleep, sleep debt against an 8-hour goal, and bedtime regularity. | Rust | 2026 |
-| [backend-reminder-api](https://github.com/singgihsaputro/backend-reminder-api) | A small FastAPI service for creating reminders, listing them by status (upcoming / overdue / done), and asking what is due in the next N hours. | Python | 2026 |
-| [backend-shift-planner](https://github.com/singgihsaputro/backend-shift-planner) | A small TypeScript backend that manages a workplace shift schedule: list open shifts, assign an employee, and get rejected with a clear reason when the role doesn't match or the employee is already booked at that time. | TypeScript | 2026 |
-| [backend-expense-splitter](https://github.com/singgihsaputro/backend-expense-splitter) | A small Go backend that tracks shared group expenses and tells you the minimal set of payments needed to settle up. | Go | 2026 |
+| [backend-packing-list](https://github.com/singgihsaputro/backend-packing-list) | TypeScript/Hono API that builds and tracks trip packing lists | TypeScript | 2026 |
+| [backend-currency-converter](https://github.com/singgihsaputro/backend-currency-converter) | Go net/http currency converter API with mock rates behind a RateSource interface | Go | 2026 |
+| [backend-sleep-log](https://github.com/singgihsaputro/backend-sleep-log) | Rust Axum API that logs nightly sleep and summarises duration, sleep debt and regularity | Rust | 2026 |
+| [backend-reminder-api](https://github.com/singgihsaputro/backend-reminder-api) | FastAPI reminder service with overdue/due-soon queries | Python | 2026 |
+| [backend-shift-planner](https://github.com/singgihsaputro/backend-shift-planner) | A TypeScript/Hono shift-scheduling API with role and overlap conflict checks | TypeScript | 2026 |
+| [backend-expense-splitter](https://github.com/singgihsaputro/backend-expense-splitter) | A Go backend that splits shared group expenses and computes minimal settlements | Go | 2026 |
 
 </details>
 
@@ -193,11 +194,11 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [freelance-leave-tracker](https://github.com/singgihsaputro/freelance-leave-tracker) | A manager's leave-approval screen: a queue of pending requests with balance and team-conflict warnings, a month calendar of who is off, and per-employee leave balances. | TypeScript | 2026 |
-| [freelance-mart-pos](https://github.com/singgihsaputro/freelance-mart-pos) | A Vue 3 point-of-sale screen for a small mini-mart: tap or scan products into a cart, take cash with quick-cash buttons, and print an 80 mm receipt with PPN 11% and Rp 100 cash rounding. | Vue | 2026 |
-| [freelance-order-board](https://github.com/singgihsaputro/freelance-order-board) | A React kitchen order board for a small restaurant: orders move across New → Preparing → Ready → Served columns with one tap, late tickets are flagged by age, and staff can search by table, order number or dish. | TypeScript | 2026 |
-| [freelance-stock-alerts](https://github.com/singgihsaputro/freelance-stock-alerts) | A Vue 3 stock screen for a small shop: it flags low and out-of-stock items, lets staff sell, add or receive stock, and builds a suggested supplier reorder list with an estimated cost. | Vue | 2026 |
-| [freelance-invoice-generator](https://github.com/singgihsaputro/freelance-invoice-generator) | A single-screen React app where a freelancer picks a client, edits line items, and downloads a formatted PDF invoice with tax and totals calculated automatically. | TypeScript | 2026 |
+| [freelance-leave-tracker](https://github.com/singgihsaputro/freelance-leave-tracker) | Leave approval screen: queue, conflict warnings, team calendar, balances (React 19 + Tailwind v4) | TypeScript | 2026 |
+| [freelance-mart-pos](https://github.com/singgihsaputro/freelance-mart-pos) | Vue 3 + Tailwind mini-mart point-of-sale with printable receipt | Vue | 2026 |
+| [freelance-order-board](https://github.com/singgihsaputro/freelance-order-board) | React 19 + Tailwind v4 restaurant kitchen order board (mock data) | TypeScript | 2026 |
+| [freelance-stock-alerts](https://github.com/singgihsaputro/freelance-stock-alerts) | Vue 3 + Tailwind stock screen with low-stock alerts and suggested reorder list | Vue | 2026 |
+| [freelance-invoice-generator](https://github.com/singgihsaputro/freelance-invoice-generator) | React + jsPDF freelance invoice generator with client-side PDF export | TypeScript | 2026 |
 
 </details>
 
@@ -206,12 +207,12 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [flutter_api_restaurant_sample](https://github.com/singgihsaputro/flutter_api_restaurant_sample) | — | — | 2024 |
-| [flutter_animation_sample](https://github.com/singgihsaputro/flutter_animation_sample) | — | — | 2024 |
-| [flutter_camera_sample](https://github.com/singgihsaputro/flutter_camera_sample) | — | — | 2023 |
-| [flutter_maps_sample](https://github.com/singgihsaputro/flutter_maps_sample) | — | — | 2023 |
-| [flutter_api_integration_sample](https://github.com/singgihsaputro/flutter_api_integration_sample) | — | — | 2023 |
-| [flutter_statefull_stateless_sample](https://github.com/singgihsaputro/flutter_statefull_stateless_sample) | — | — | 2023 |
+| [flutter_api_restaurant_sample](https://github.com/singgihsaputro/flutter_api_restaurant_sample) | — | Dart | 2024 |
+| [flutter_animation_sample](https://github.com/singgihsaputro/flutter_animation_sample) | — | Makefile | 2024 |
+| [flutter_camera_sample](https://github.com/singgihsaputro/flutter_camera_sample) | Flutter project to simulate integrate camera function basic | Dart | 2023 |
+| [flutter_maps_sample](https://github.com/singgihsaputro/flutter_maps_sample) | Demonstrate google maps integration | Dart | 2023 |
+| [flutter_api_integration_sample](https://github.com/singgihsaputro/flutter_api_integration_sample) | Restaurant Mock Application built by using Flutter | Dart | 2023 |
+| [flutter_statefull_stateless_sample](https://github.com/singgihsaputro/flutter_statefull_stateless_sample) | — | C++ | 2023 |
 
 </details>
 
@@ -220,26 +221,26 @@ do not tell the story — they are dominated by vendored files in old web projec
 
 | Project | What it is | Language | Year |
 |---|---|---|---|
-| [DesignPattern-Java](https://github.com/singgihsaputro/DesignPattern-Java) | — | — | 2018 |
-| [DrinkReminder](https://github.com/singgihsaputro/DrinkReminder) | — | — | 2017 |
-| [PopularMovies](https://github.com/singgihsaputro/PopularMovies) | — | — | 2017 |
-| [SampleContactProvider](https://github.com/singgihsaputro/SampleContactProvider) | — | — | 2017 |
-| [DesignPattern-Kotlin](https://github.com/singgihsaputro/DesignPattern-Kotlin) | — | — | 2017 |
-| [SampleRxLoginForm](https://github.com/singgihsaputro/SampleRxLoginForm) | — | — | 2016 |
-| [SampleRxJava-RetroLambda](https://github.com/singgihsaputro/SampleRxJava-RetroLambda) | — | — | 2016 |
-| [SampleRxJava-Retrofit](https://github.com/singgihsaputro/SampleRxJava-Retrofit) | — | — | 2016 |
-| [SampleKotlin](https://github.com/singgihsaputro/SampleKotlin) | — | — | 2016 |
-| [SampleAuthFirebase-Android-](https://github.com/singgihsaputro/SampleAuthFirebase-Android-) | — | — | 2016 |
-| [BasicLogic](https://github.com/singgihsaputro/BasicLogic) | — | — | 2016 |
-| [Chat-using-Phyton](https://github.com/singgihsaputro/Chat-using-Phyton) | — | — | 2016 |
-| [Epharm](https://github.com/singgihsaputro/Epharm) | — | — | 2016 |
-| [Evoting](https://github.com/singgihsaputro/Evoting) | — | — | 2016 |
-| [I_Pet](https://github.com/singgihsaputro/I_Pet) | — | — | 2016 |
-| [OrangeFruitDetectionUsingBayes](https://github.com/singgihsaputro/OrangeFruitDetectionUsingBayes) | — | — | 2016 |
-| [Web-DSS-AHP](https://github.com/singgihsaputro/Web-DSS-AHP) | — | — | 2016 |
-| [WebChat-BottlePython](https://github.com/singgihsaputro/WebChat-BottlePython) ⭐2 | — | Python | 2016 |
-| [KumpulinSampah](https://github.com/singgihsaputro/KumpulinSampah) | — | — | 2016 |
-| [Flash-Math](https://github.com/singgihsaputro/Flash-Math) | — | — | 2016 |
+| [DrinkReminder](https://github.com/singgihsaputro/DrinkReminder) | This is sample project which is implement kotlin language and instant app | — | 2017 |
+| [SampleContactProvider](https://github.com/singgihsaputro/SampleContactProvider) | — | Java | 2017 |
+| [DesignPattern-Java](https://github.com/singgihsaputro/DesignPattern-Java) | Sample Design Pattern in Java | Java | 2017 |
+| [DesignPattern-Kotlin](https://github.com/singgihsaputro/DesignPattern-Kotlin) | Sample Design Pattern in Kotlin | Kotlin | 2017 |
+| [SampleRxLoginForm](https://github.com/singgihsaputro/SampleRxLoginForm) | — | Java | 2016 |
+| [SampleRxJava-RetroLambda](https://github.com/singgihsaputro/SampleRxJava-RetroLambda) | Sample RxJava with RetroLambda Java 8 | Java | 2016 |
+| [SampleKotlin](https://github.com/singgihsaputro/SampleKotlin) | This is sample project Android Apps using Kotlin with Rx and Retrofit | Kotlin | 2016 |
+| [SampleRxJava-Retrofit](https://github.com/singgihsaputro/SampleRxJava-Retrofit) ⭐1 | This project is just sample using RxJava and Retrofit | Java | 2016 |
+| [SampleAuthFirebase-Android-](https://github.com/singgihsaputro/SampleAuthFirebase-Android-) | This is sample project auth using firebase on Android platform | Java | 2016 |
+| [BasicLogic](https://github.com/singgihsaputro/BasicLogic) | This is sample code that solve about logic problem | Java | 2016 |
+| [PopularMovies](https://github.com/singgihsaputro/PopularMovies) | This is android app that provide information about movie | Java | 2016 |
+| [Chat-using-Phyton](https://github.com/singgihsaputro/Chat-using-Phyton) | Chat apps desktop using Phyton | Python | 2016 |
+| [I_Pet](https://github.com/singgihsaputro/I_Pet) | Sample web apps with JQUery Mobile | CSS | 2016 |
+| [OrangeFruitDetectionUsingBayes](https://github.com/singgihsaputro/OrangeFruitDetectionUsingBayes) ⭐1 | Orange detection image pattern using Bayes Theory | HTML | 2016 |
+| [WebChat-BottlePython](https://github.com/singgihsaputro/WebChat-BottlePython) ⭐2 | Web Chat Sample using Bottle and Python | Python | 2016 |
+| [Epharm](https://github.com/singgihsaputro/Epharm) | Project ERP about pharmacy sale | PHP | 2016 |
+| [Evoting](https://github.com/singgihsaputro/Evoting) | Aplikasi prototype untuk memvoting calon wakil rakyat | JavaScript | 2016 |
+| [Flash-Math](https://github.com/singgihsaputro/Flash-Math) | Mobile game education about math on android platform | Java | 2016 |
+| [KumpulinSampah](https://github.com/singgihsaputro/KumpulinSampah) ⭐1 | Apps KumpulinSampah provide us to post, collect and buy rubbish | Java | 2016 |
+| [Web-DSS-AHP](https://github.com/singgihsaputro/Web-DSS-AHP) ⭐2 | Project website decision support system AHP | JavaScript | 2016 |
 
 </details>
 
