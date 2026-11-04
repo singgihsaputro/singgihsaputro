@@ -1,4 +1,4 @@
-name: Refresh highlighted projects
+name: Refresh repository lists
 
 on:
   schedule:
@@ -16,15 +16,17 @@ jobs:
       - uses: actions/checkout@v4
 
       - run: python3 scripts/highlight-repos.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: Commit if anything moved
         run: |
           if [ -z "$(git status --porcelain)" ]; then
-            echo "Repository list unchanged."
+            echo "Repository lists unchanged."
             exit 0
           fi
           git config user.name  "Singgih Rochmad Saputro"
           git config user.email "singgih.rochmad@gmail.com"
           git add -A
-          git commit -m "Refresh highlighted projects"
+          git commit -m "Refresh the repository lists"
           git push
