@@ -208,11 +208,11 @@ do not tell the story — they are dominated by vendored files in old web projec
 | Project | What it is | Language | Year |
 |---|---|---|---|
 | [flutter_api_restaurant_sample](https://github.com/singgihsaputro/flutter_api_restaurant_sample) | — | Dart | 2024 |
-| [flutter_animation_sample](https://github.com/singgihsaputro/flutter_animation_sample) | — | Makefile | 2024 |
+| [flutter_animation_sample](https://github.com/singgihsaputro/flutter_animation_sample) | — | Dart | 2024 |
 | [flutter_camera_sample](https://github.com/singgihsaputro/flutter_camera_sample) | Flutter project to simulate integrate camera function basic | Dart | 2023 |
 | [flutter_maps_sample](https://github.com/singgihsaputro/flutter_maps_sample) | Demonstrate google maps integration | Dart | 2023 |
 | [flutter_api_integration_sample](https://github.com/singgihsaputro/flutter_api_integration_sample) | Restaurant Mock Application built by using Flutter | Dart | 2023 |
-| [flutter_statefull_stateless_sample](https://github.com/singgihsaputro/flutter_statefull_stateless_sample) | — | C++ | 2023 |
+| [flutter_statefull_stateless_sample](https://github.com/singgihsaputro/flutter_statefull_stateless_sample) | — | Dart | 2023 |
 
 </details>
 

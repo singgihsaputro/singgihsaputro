@@ -48,6 +48,8 @@ GROUPS = [
     ('early', 'Early work, 2016\u20132019', False, []),
 ]
 HIDDEN = {USER}
+# GitHub counts generated platform code (C++, Makefiles); these are all Flutter.
+GROUP_LANGUAGE = {'flutter': 'Dart'}
 
 
 def group_of(name, created):
@@ -133,9 +135,10 @@ def render_all(repos):
         for r in members:
             stars = f" ⭐{r['stars']}" if r['stars'] else ''
             archived = ' *(archived)*' if r.get('archived') else ''
+            language = GROUP_LANGUAGE.get(gid) or r['language'] or '—'
             rows.append(
                 f"| [{r['name']}](https://github.com/{USER}/{r['name']}){stars}{archived} | {cell(r['description'])} "
-                f"| {r['language'] or '—'} | {r['created'][:4]} |"
+                f"| {language} | {r['created'][:4]} |"
             )
         parts.append(
             f"<details{' open' if gid == 'projects' else ''}>\n"
